@@ -1,9 +1,9 @@
 class Devinit < Formula
   desc "Pageking CLI for initializing projects"
   homepage "https://github.com/Pageking/devinit"
-  url "https://github.com/Pageking/devinit/archive/refs/tags/v1.1.5.tar.gz"
-  sha256 "12ad9d307c3e04020a4d1720b8b05e3c8e464b3f778f7a2dcb85d2d6b208966e"
-  version "1.1.5"
+  url "https://github.com/Pageking/devinit/archive/refs/tags/v1.1.6.tar.gz"
+  sha256 "542764104eca032b77a0984ea7d86e854a93c7f05451867410ed81e79c081d3b"
+  version "1.1.6"
   license "MIT"
   head "https://github.com/Pageking/devinit.git"
 
