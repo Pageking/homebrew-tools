@@ -1,4 +1,4 @@
-class PKCLI < Formula
+class Pixel < Formula
   desc "Pageking CLI for initializing projects"
   homepage "https://github.com/Pageking/pixel"
   url "https://github.com/Pageking/pixel/archive/refs/tags/v1.0.0.tar.gz"
