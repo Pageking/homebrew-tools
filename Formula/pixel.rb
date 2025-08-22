@@ -7,7 +7,6 @@ class Pixel < Formula
   license ""
   head "https://github.com/Pageking/pixel.git"
 
-  depends_on "ssh"
   depends_on "jq"
   depends_on "gh"
   depends_on "git"
