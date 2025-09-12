@@ -8,7 +8,6 @@ class Pixel < Formula
   head "https://github.com/Pageking/pixel.git"
 
   depends_on "jq"
-  depends_on "op"
   depends_on "gh"
   depends_on "git"
   depends_on "sshpass"
