@@ -1,15 +1,17 @@
 class Pixel < Formula
   desc "Pageking CLI for initializing projects"
   homepage "https://github.com/Pageking/pixel"
-  url "https://github.com/Pageking/pixel/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "e9133e2bc3f1e9c5ac2412148d7f0aa5390f1fa554bf6cfa8704631c6e80fe9a"
-  version "1.0.3"
+  url "https://github.com/Pageking/pixel/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "e85c5035355a05f5a6d943d46c98433931d6233cc9321caf110fc9b498b69a2f"
+  version "1.0.4"
   license ""
   head "https://github.com/Pageking/pixel.git"
 
   depends_on "jq"
+  depends_on "op"
   depends_on "gh"
   depends_on "git"
+  depends_on "sshpass"
 
   def install
     bin.install "pixel"
