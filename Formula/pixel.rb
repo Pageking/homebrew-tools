@@ -1,9 +1,9 @@
 class Pixel < Formula
   desc "Pageking CLI for initializing projects"
   homepage "https://github.com/Pageking/pixel"
-  url "https://github.com/Pageking/pixel/archive/refs/tags/v1.0.29.tar.gz"
-  sha256 "2507203f130074027032f44f8f60f6f036445980669e9edc0bd652184ae6c360"
-  version "1.0.29"
+  url "https://github.com/Pageking/pixel/archive/refs/tags/v1.0.30.tar.gz"
+  sha256 "c4749ebfc480d0f04db6bf5556921aad719802e72079162af411b5a9f7c45cd5"
+  version "1.0.30"
   license ""
   head "https://github.com/Pageking/pixel.git"
 
